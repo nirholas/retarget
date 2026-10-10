@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: "@three-ws/retarget"
+abstract: "Retarget animations onto any humanoid GLB. Canonicalizes bone names from Mixamo, Avaturn, VRM/VRoid, Daz/Genesis, MakeHuman, Unreal, and Blender rigs onto one canonical skeleton, retargets clips with rest-pose and hip-axis correction, and drives them with a crossfading runtime, so no rig ever freezes in a T-pose."
+type: software
+authors:
+  - name: three.ws contributors
+repository-code: "https://github.com/nirholas/retarget"
+url: "https://nirholas.github.io/retarget/"
+license: Apache-2.0
+version: 0.1.2

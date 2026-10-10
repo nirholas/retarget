@@ -1,0 +1,17 @@
+# @three-ws/retarget
+
+> Retarget animations onto any humanoid GLB. Canonicalizes bone names from Mixamo, Avaturn, VRM/VRoid, Daz/Genesis, MakeHuman, Unreal, and Blender rigs onto one canonical skeleton, retargets clips with rest-pose and hip-axis correction, and drives them with a crossfading runtime, so no rig ever freezes in a T-pose.
+
+- Repository: https://github.com/nirholas/retarget
+- Documentation: https://nirholas.github.io/retarget/
+- npm: https://www.npmjs.com/package/@three-ws/retarget
+- License: Apache-2.0
+- Part of three.ws: https://three.ws
+
+## Docs
+
+- [README](https://github.com/nirholas/retarget/blob/main/README.md): install, usage and full API reference
+- [Full text for LLMs](https://nirholas.github.io/retarget/llms-full.txt): the entire README as plain text
+- [AGENTS.md](https://github.com/nirholas/retarget/blob/main/AGENTS.md): conventions for coding agents
+- [Security policy](https://github.com/nirholas/retarget/blob/main/SECURITY.md)
+- [Contributing](https://github.com/nirholas/retarget/blob/main/CONTRIBUTING.md)
