@@ -1,0 +1,19 @@
+{
+  "name": "three-ws-retarget",
+  "owner": {
+    "name": "nirholas"
+  },
+  "description": "Retarget animation clips onto any humanoid GLB with bone-name canonicalization, rest-pose correction and a crossfading runtime for Three.js.",
+  "plugins": [
+    {
+      "name": "three-ws-retarget",
+      "source": "./",
+      "description": "Retarget animation clips onto any humanoid GLB with bone-name canonicalization, rest-pose correction and a crossfading runtime for Three.js.",
+      "tags": [
+        "animation",
+        "threejs",
+        "glb"
+      ]
+    }
+  ]
+}
