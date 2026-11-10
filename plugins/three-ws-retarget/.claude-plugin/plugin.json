@@ -6,6 +6,7 @@
     "name": "nirholas"
   },
   "repository": "https://github.com/nirholas/retarget",
+  "homepage": "https://nirholas.github.io/retarget/",
   "license": "Apache-2.0",
   "keywords": [
     "three-ws",
@@ -16,6 +17,5 @@
     "mixamo",
     "vrm",
     "threejs"
-  ],
-  "homepage": "https://nirholas.github.io/retarget/"
+  ]
 }
